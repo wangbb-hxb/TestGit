@@ -6,5 +6,6 @@ public class TestGit {
 		System.out.println("sts hahah");
 		System.out.println("eclipse haha");
 		System.out.println("sts test");
+		System.out.println("test ec");
 	}
 }
